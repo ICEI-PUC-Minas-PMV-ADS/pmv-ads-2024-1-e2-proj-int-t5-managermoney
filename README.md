@@ -1,33 +1,26 @@
-# TÍTULO DO PROJETO
+# ManagerMOney
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DISCIPLINA`
+`Desenvolvimento de Aplicação Web Front-End`
 
-`SEMESTRE`
+`2º semestre/2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O aplicativo proporcionará uma visão abrangente das finanças dos motoristas, auxiliando-os no controle de despesas, receitas e lucros líquidos. Com essas funcionalidades, os usuários poderão tomar decisões financeiras mais informadas e otimizar seus ganhos como motoristas de aplicativo. Este projeto visa desenvolver um aplicativo de finanças destinado a usuários que trabalham com o aplicativo Uber e realizam corridas em geral.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Bruno Cesar Dias Santos
+* Caio Augusto de Carvalho Rosa
+* Fabio Francisco Costa Ribeiro
+* Felipe Augusto Guimaraes Dante
+* Guilherme Pena Matsumura
+* João Victor Braga Zacarias
+* Lucas Macedo de Almeida
 
 ## Orientador
 
-* Nome completo do professor 1
-
-## Instruções de utilização
-
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
-
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
-
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
-
-O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
+* Luciana de Nardin
 
 # Documentação
 
