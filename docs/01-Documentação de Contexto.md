@@ -21,6 +21,9 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 
 **Fontes:**
+> https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/38160-em-2022-1-5-milhao-de-pessoas-trabalharam-por-meio-de-aplicativos-de-servicos-no-pais
+> 
+
 
 
 ## Problema
