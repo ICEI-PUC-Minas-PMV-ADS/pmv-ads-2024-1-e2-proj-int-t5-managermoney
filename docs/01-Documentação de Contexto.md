@@ -2,7 +2,7 @@
 
 Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios (PNAD) no 4º trimestre de 2022, o Brasil tinha cerca de 778 mil pessoas exerciam, em 2022, o trabalho principal por meio de aplicativos de transportes de passageiros.
 
-Por tipo de aplicativo, 52,2% (778 mil) exerciam o trabalho principal por meio de aplicativos de transporte de passageiros em ao menos um dos dois tipos listados (de táxi ou excluindo táxi). Em um olhar mais aprofundado, eram 47,2% (704 mil pessoas) os de transporte particular de passageiros (excluindo os de táxi) e 13,9% (207 mil) de aplicativos de táxi.
+Por tipo de aplicativo, 52,2% (778 mil) exerciam o trabalho principal por meio de aplicativos de transporte de passageiros em ao menos um dos dois tipos listados (de táxi ou excluindo táxi). Em um olhar mais aprofundado, eram 47,2% (704 mil pessoas) os de transporte particular de passageiros (excluindo os de táxi) e 13,9% (207 mil) de aplicativos de táxi; 39,5% (589 mil) eram trabalhadores de aplicativos de entrega de comida, produtos etc., enquanto os trabalhadores de aplicativos de prestação de serviços gerais ou profissionais somavam 13,2% (197 mil). 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fa1d12ee-439c-4e13-aac4-b56ea33603f3)
 Fonte: Helena Pontes/Agência IBGE Notícias
