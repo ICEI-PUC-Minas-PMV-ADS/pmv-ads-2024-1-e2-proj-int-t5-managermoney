@@ -7,6 +7,9 @@ Por tipo de aplicativo, 52,2% (778 mil) exerciam o trabalho principal por meio d
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fa1d12ee-439c-4e13-aac4-b56ea33603f3)
 Fonte: Helena Pontes/Agência IBGE Notícias
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fb8c01ae-c072-4a24-9769-f249fb77f06a)
+
+
 
 
 
