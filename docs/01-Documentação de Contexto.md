@@ -28,12 +28,21 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 
 ## Problema
+
+A margem de lucro é um indicador financeiro que mede a diferença entre o custo de produção de um produto ou serviço e o seu preço de venda. Em outras palavras, é o valor que sobra após descontar todos os custos envolvidos na produção ou prestação de um serviço.
+Para se ter a real noção de sua margem de lucro o profissional deve ter contabilizados de forma clara seus custos/despesas e receitas. 
+As despesas envolvem internet, gasolina, manutenção, revisões, imposto (IPVA), seguro, limpeza, aluguel ou parcelamento do veículo, alimentação e outras questões como multas e batidas que fazem parte do dia a dia do transito. É muito importe ter tudo isto calculado com uma reserva para imprevistos.
+Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é um custo variável já que você terá este gasto de acordo com a quantidade km rodados, já o seguro e internet é um custo fixo que independem da demanda de clientes.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
 Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
+--------------------------------------------------------------------------------------------------------------------------------------------
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 > - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
