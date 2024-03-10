@@ -1,6 +1,6 @@
 # Introdução
 
-Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios (PNAD) 
+Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios (PNAD) No 4º trimestre de 2022, o Brasil tinha cerca de 778 mil pessoas exerciam, em 2022, o trabalho principal por meio de aplicativos de transportes de passageiros.
 
 
 
