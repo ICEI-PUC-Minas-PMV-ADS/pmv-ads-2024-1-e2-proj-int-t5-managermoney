@@ -10,6 +10,14 @@ Fonte: Helena Pontes/Agência IBGE Notícias
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fb8c01ae-c072-4a24-9769-f249fb77f06a)
 
 
+A renda dos motoristas plataformizados (R$2.454) era ligeiramente superior à dos motoristas não plataformizados (R$2.412).
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/c518c83f-8f34-4914-be06-e9314e738405)
+
+Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no trabalho principal, 50,8% (171 mil) realizavam trabalho por meio de aplicativos de entrega. Mas, diferentemente do observado para os motoristas, o rendimento habitual médio dos entregadores plataformizados (R$1.784) representava apenas 80,7% daquele recebido pelos não plataformizados (R$2.210). 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/7919b7df-d0e6-4c6b-90bf-62e1728538ee)
+
 
 
 
