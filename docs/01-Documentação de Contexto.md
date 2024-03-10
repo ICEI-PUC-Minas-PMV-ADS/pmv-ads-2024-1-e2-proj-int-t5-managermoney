@@ -22,7 +22,8 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 **Fontes:**
 > https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/38160-em-2022-1-5-milhao-de-pessoas-trabalharam-por-meio-de-aplicativos-de-servicos-no-pais
-> 
+> https://agenciagov.ebc.com.br/noticias/202403/proposta-de-projeto-de-lei-cria-pacote-de-direitos-para-motoristas-de-aplicativos
+> https://veja.abril.com.br/economia/brasil-tem-15-milhao-de-trabalhadores-por-aplicativo
 
 
 
