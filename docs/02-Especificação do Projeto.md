@@ -18,7 +18,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Controlar os ganhos e despesas     | Saber verdadeiramente se sua atividade está sendo rentável.|
+|Usuário do sistema  | Controlar os ganhos e despesas.     | Saber verdadeiramente se o exercíco da sua atividade está sendo rentável.|
+|Usuário do sistema  | Categorização das despesas e das receitas.     | Saber verdadeiramente se o exercíco da sua atividade está sendo rentável.|
+|Usuário do sistema  | Plataforma simples, clara e de fácil acesso.     | Ter mais tempo no exercício da profissão, executando mais corridas.|
+|Usuário do sistema  | Inserção de dados de receita e despesas com facilidade.     | Ter mais tempo no exercício da profissão, executando mais corridas.|
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
