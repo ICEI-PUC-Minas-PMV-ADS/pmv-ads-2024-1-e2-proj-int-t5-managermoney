@@ -12,6 +12,9 @@ Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administraçã
 
 Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. 
 
+Pedro Rocha tem 32 anos, após ficar desempregado optou por alugar um veículo e ser motorista de aplicativo. Tem uma boa comunicação, casado e tem dois filhos, como começou a ser motorista de aplicativo faz pouco tempo, o mesmo precisa de auxílio com seus gastos e lucros para administrar melhor seu capital.
+
+Livia Fonseca tem 27 anos, motorista de aplicativo e estudante de Psicologia. Optou por ser motorista de aplicativo por ser uma profissão flexível para ter tempo de estudar e consequentemente pagar sua faculdade, solteira, sem filhos, carro própio e gosta de controlar bastante a sua vida financeira.
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
