@@ -53,8 +53,12 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Como Objetivo central  propomos  auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
+OBJETIVO GERAL: Como Objetivo central  propomos  auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
 
+OBJETIVOS ESPECÍFICOS: 
+
+- Levantar e apurar  os custos envolvidos na prestação de serviço transporte por aplicativo e entrega;
+- Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
