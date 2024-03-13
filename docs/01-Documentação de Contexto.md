@@ -65,9 +65,10 @@ OBJETIVOS ESPECÍFICOS:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho, buscando  melhor forma que viabilizem  o controle dos gastos e geração de mais renda ; e consequentemente esta melhora no padrão de renda, o profissional muito além de levar mais receita financeira para sua família, também  poderá ter condições de investir em sua qualificação profissional ou no veículo que é sua principal ferramenta de trabalho.  
+
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
