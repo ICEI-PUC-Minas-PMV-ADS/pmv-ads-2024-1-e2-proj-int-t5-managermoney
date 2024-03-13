@@ -36,7 +36,7 @@ As despesas envolvem internet, gasolina, manutenção, revisões, imposto (IPVA)
 
 Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é um custo variável já que você terá este gasto de acordo com a quantidade km rodados, já o seguro e internet é um custo fixo que independem da demanda de clientes.
 
-
+Diante  a diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  pela dificuldade  de mensurar sua Receita e os diversos Custos envolvidos na atividade,  propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
