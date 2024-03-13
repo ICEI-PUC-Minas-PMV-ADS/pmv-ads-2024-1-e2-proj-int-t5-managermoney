@@ -35,8 +35,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA | 
-|RF-002| A aplicação deve emitir um relatório de tarefas realizadas no mês   | MÉDIA |
+|RF-001| A aplicação deve permitir que o usuário se cadastre | ALTA | 
+|RF-002| A aplicação deve permitir que o usuário faça login | ALTA | 
+|RF-003| A aplicação deve permitir que o usuário edite o perfil | MÉDIA |
+|RF-004| A aplicação deve permitir inserções de saídas e entradas | ALTA |
+|RF-005| A aplicação deve permitir inserções de saídas que repetem de forma mensal ou semanal | BAIXA |
+|RF-006| A aplicação deve permitir o download do relatório completo do mês | MÉDIA |
+|RF-007| A aplicação deve permitir separar as saídas e entradas por categoria | BAIXA |
 
 ### Requisitos não Funcionais
 
