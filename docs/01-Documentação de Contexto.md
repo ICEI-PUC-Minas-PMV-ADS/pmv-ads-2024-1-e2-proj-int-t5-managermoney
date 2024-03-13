@@ -29,8 +29,7 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 ## Problema
 
-
-Diante  a diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  pela dificuldade  de mensurar sua Receita e os diversos Custos envolvidos na atividade,  propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
+Diante  as diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  pela dificuldade  de mensurar sua Receita e os diversos Custos envolvidos na atividade,  propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
 
 A margem de lucro é um indicador financeiro que mede a diferença entre o custo de produção de um produto ou serviço e o seu preço de venda. Em outras palavras, é o valor que sobra após descontar todos os custos envolvidos na produção ou prestação de um serviço.
 Para se ter a real noção de sua margem de lucro o profissional deve ter contabilizados de forma clara seus custos/despesas e receitas.
@@ -38,6 +37,7 @@ Para se ter a real noção de sua margem de lucro o profissional deve ter contab
 As despesas envolvem internet, gasolina, manutenção, revisões, imposto (IPVA), seguro, limpeza, aluguel ou parcelamento do veículo, alimentação e outras questões como multas e batidas que fazem parte do dia a dia do transito. É muito importe ter tudo isto calculado com uma reserva para imprevistos.
 
 Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é um custo variável já que você terá este gasto de acordo com a quantidade km rodados, já o seguro e internet é um custo fixo que independem da demanda de clientes.
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
