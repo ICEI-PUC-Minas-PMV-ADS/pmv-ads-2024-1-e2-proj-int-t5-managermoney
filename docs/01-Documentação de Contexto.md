@@ -29,7 +29,7 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 ## Problema
 
-Diante  as diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  entende-se ser apresentado como  Problema a dificuldade  de mensurar sua Receita e os diversos Custos envolvidos na atividade,  propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
+Diante  as diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  entende-se ser apresentado como  Problema a dificuldade  de mensurar  Receitas e os diversos Custos envolvidos na atividade; propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
 
 A margem de lucro é um indicador financeiro que mede a diferença entre o custo de produção de um produto ou serviço e o seu preço de venda. Em outras palavras, é o valor que sobra após descontar todos os custos envolvidos na produção ou prestação de um serviço.
 Para se ter a real noção de sua margem de lucro o profissional deve ter contabilizados de forma clara seus custos/despesas e receitas.
