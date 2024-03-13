@@ -8,27 +8,27 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administração. Gosta de se relacionar com as pessoas, solteiro, sem filhos e sonha trabalhar para a Administração Pública Federal. Muito meticuloso, sistemático e organizado com as suas coisas, busca uma aplicação que ajude-o em sua organização financeira.
+Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administração. Gosta de se relacionar com as pessoas, solteiro, sem filhos e sonha trabalhar para a Administração Pública Federal. Muito meticuloso, sistemático e organizado com as suas coisas, busca saber se o tempo empenhado como motorista de aplicativo tem válido a pena para complementar a sua renda.
 
-Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. 
+Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem-estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. O tempo com a sua família é super valorizado e otimizar os gastos para ter mais tempo livre para seus familiares é uma das suas principais prioridades.
 
-Pedro Rocha tem 32 anos, após ficar desempregado optou por alugar um veículo e ser motorista de aplicativo. Tem uma boa comunicação, casado e tem dois filhos, como começou a ser motorista de aplicativo faz pouco tempo, o mesmo precisa de auxílio com seus gastos e lucros para administrar melhor seu capital.
+Livia Fonseca tem 32 anos, após ficar desempregada optou por alugar um veículo e ser motorista de aplicativo. Tem uma boa comunicação, casada e tem dois filhos, como começou a ser motorista de aplicativo faz pouco tempo, a mesmo precisa de auxílio com seus gastos e lucros para administrar melhor seu capital.
 
-Livia Fonseca tem 27 anos, motorista de aplicativo e estudante de Psicologia. Optou por ser motorista de aplicativo por ser uma profissão flexível para ter tempo de estudar e consequentemente pagar sua faculdade, solteira, sem filhos, carro própio e gosta de controlar bastante a sua vida financeira.
+Pedro Rocha tem 46 anos, entregador de aplicativo. Desde muito novo, gostava de andar de moto e a maior parte do tempo está sob duas rodas. Tentou algumas profissões anteriormente, mas identificou-se com a profissão de entregador de aplicativo pela sua paixão por motos. Sonha em fazer viajens internacionais, mas, para isso, precisa de uma moto nova, mais potente. Separar parte dos seus ganhos para realizar seu sonho, tornou-se seu principal objetivo.
+
+Sebastião Alves, 57 anos, aposentado e motorista de aplicativo. Viúvo, duas filhas e três lindos netos. Avô coruja, adora passar o final de semana com seus netos curtindo cada momento com eles. Contudo, durante a semana, estava muito ocioso e resolveu atuar como motorista de aplicativo. Identificou-se com a profissão por sua flexibilidade de horários e o dinheiro extra tem ajudado no complemento da aposentadoria, além disso, fica feliz em conhecer novas pessoas. Sua dedicação a profissão durante a semana chama atenção e saber se essas horas empenhadas têm sido bem remuneradas é importante para ele.  
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Controlar os ganhos e despesas.     | Saber verdadeiramente se o exercíco da sua atividade está sendo rentável.|
-|Usuário do sistema  | Categorização das despesas e das receitas.     | Saber verdadeiramente se o exercíco da sua atividade está sendo rentável.|
-|Usuário do sistema  | Plataforma simples, clara e de fácil acesso.     | Ter mais tempo no exercício da profissão, executando mais corridas.|
-|Usuário do sistema  | Inserção de dados de receita e despesas com facilidade.     | Ter mais tempo no exercício da profissão, executando mais corridas.|
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Aplicação passível de edição dos dados inseridos pelo usuário e sistema interativo.     | O usuário ter liberdade de editar, excluir dados inseridos.|
-|Administrador       | Aplicação esteja online full time.     | O usuário ter a possibilidade de usar o aplicativo em qualquer horário.|
-
+|Mateus Sobral       | Controlar os ganhos e despesas.     | Saber verdadeiramente se o exercício da sua atividade está sendo rentável.|
+|Kátia Souza         | Ter ciência dos ganhos por hora trabalhada.     | Trabalhar menos e otimizar seus ganhos, tendo assim mais tempo livre com a sua família.|
+|Livia Fonseca  | Visualizar os ganhos e despesas por categoria.     | Saber se está auferindo lucro, já que tem um alto custo com o aluguel do carro.|
+|Pedro Rocha    | Ter ciência dos gastos com manutenção do veículo.     | Quer trocar de moto e deseja uma moto nova e mais potente.|
+|Sebastião Alves     | Ter ciência dos ganhos por kilometro rodado e por hora trabalhada.     | Otimizar seus ganhos para ter os finais de semana livre em família.|
 
 ## Requisitos
 
