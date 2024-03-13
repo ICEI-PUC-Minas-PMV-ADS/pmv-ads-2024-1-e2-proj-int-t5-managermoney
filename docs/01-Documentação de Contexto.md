@@ -57,7 +57,7 @@ OBJETIVO GERAL: Como Objetivo central  propomos  auxiliar uma classe trabalhador
 
 OBJETIVOS ESPECÍFICOS: 
 
-- Levantar e apurar  os custos envolvidos na prestação de serviço transporte por aplicativo e entrega;
+- Levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
 - Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho. 
  
 > **Links Úteis**:
