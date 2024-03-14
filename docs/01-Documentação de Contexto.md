@@ -1,5 +1,13 @@
 # Introdução
 
+*** FAZER INTRODUÇÃO ****
+==================================================
+
+
+
+## Justificativa
+
+
 Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios (PNAD) no 4º trimestre de 2022, Brasil tinha 1,5 milhão de trabalhadores por aplicativo, sendo que cerca de 778 mil pessoas exerciam em 2022 o trabalho principal por meio de aplicativos de transportes de passageiros.
 
 Por tipo de aplicativo, 52,2% (778 mil) exerciam o trabalho principal por meio de aplicativos de transporte de passageiros em ao menos um dos dois tipos listados (de táxi ou excluindo táxi). Em um olhar mais aprofundado, eram 47,2% (704 mil pessoas) os de transporte particular de passageiros (excluindo os de táxi) e 13,9% (207 mil) de aplicativos de táxi; 39,5% (589 mil) eram trabalhadores de aplicativos de entrega de comida, produtos etc., enquanto os trabalhadores de aplicativos de prestação de serviços gerais ou profissionais somavam 13,2% (197 mil). 
@@ -56,8 +64,6 @@ OBJETIVOS ESPECÍFICOS:
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
-## Justificativa
-
 Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
 
 Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho, buscando  melhor forma que viabilizem  o controle dos gastos e geração de mais renda ; e consequentemente esta melhora no padrão de renda, o profissional muito além de levar mais receita financeira para sua família, também  poderá ter condições de investir em sua qualificação profissional ou no veículo que é sua principal ferramenta de trabalho.  
@@ -68,5 +74,4 @@ Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho,
 
 ## Público-Alvo
 
-
-Homens entre 20 e 55 anos que desempenham o importante papel de motoristas ou entregadores que frequentemente enfrentam dificuldades em compreender a gestão financeira, especialmente no que diz respeito à distribuição da receita em diferentes áreas, como IPVA, seguro, financiamento e aluguel veicular. No entanto, sentem uma forte necessidade de compreender seus lucros para alcançar um controle financeiro mais eficaz e eficiente.
+Motoristas ou entregadores que frequentemente enfrentam dificuldades em compreender a gestão financeira, especialmente no que diz respeito à distribuição da receita em diferentes áreas, como IPVA, seguro, financiamento e aluguel veicular. No entanto, sentem uma forte necessidade de compreender seus lucros para alcançar um controle financeiro mais eficaz e eficiente.
