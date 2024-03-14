@@ -53,7 +53,7 @@ OBJETIVOS ESPECÍFICOS:
 
 - Levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
 - Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho.
-- 
+
 Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
 
 Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho, buscando  melhor forma que viabilizem  o controle dos gastos e geração de mais renda ; e consequentemente esta melhora no padrão de renda, o profissional muito além de levar mais receita financeira para sua família, também  poderá ter condições de investir em sua qualificação profissional ou no veículo que é sua principal ferramenta de trabalho.  
