@@ -50,10 +50,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A aplicação deve ser responsiva | ALTA | 
+|RNF-002| Os usuários poderão gerar e baixar documentos PDF contendo informações relevantes sobre o projeto, Isso incluirá gráficos de barras, gráficos de pizza e outros formatos visuais  | ALTA | 
 |RNF-003| Usuário terá segurança em seu login, ao tentar se conectar com login ou senha errado não acessaram o site e terá retorno de erro | MÉDIA | 
 |RNF-004| A aplicação deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).| MÉDIA |
+|RNF-005| Os usuários poderão visualizar e monitorar suas receitas provenientes das corridas realizadas. Isso incluirá o valor total ganho, bem como detalhes específicos sobre cada corrida, como data, horário, localização de origem e destino, valor da corrida e comissão retida pela plataforma, se aplicável.| MÉDIA |
+
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
