@@ -9,6 +9,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ## Personas
 
 Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administração. Gosta de se relacionar com as pessoas, solteiro, sem filhos e sonha trabalhar para a Administração Pública Federal. Muito meticuloso, sistemático e organizado com as suas coisas, busca saber se o tempo empenhado como motorista de aplicativo tem válido a pena para complementar a sua renda.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/070e88d2-76d4-4698-9921-80e2027b8589)
 
 Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem-estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. O tempo com a sua família é super valorizado e otimizar os gastos para ter mais tempo livre para seus familiares é uma das suas principais prioridades.
 
@@ -17,6 +18,9 @@ Livia Fonseca tem 32 anos, após ficar desempregada optou por alugar um veículo
 Pedro Rocha tem 46 anos, entregador de aplicativo. Desde muito novo, gostava de andar de moto e a maior parte do tempo está sob duas rodas. Tentou algumas profissões anteriormente, mas identificou-se com a profissão de entregador de aplicativo pela sua paixão por motos. Sonha em fazer viajens internacionais, mas, para isso, precisa de uma moto nova, mais potente. Separar parte dos seus ganhos para realizar seu sonho, tornou-se seu principal objetivo.
 
 Sebastião Alves, 57 anos, aposentado e motorista de aplicativo. Viúvo, duas filhas e três lindos netos. Avô coruja, adora passar o final de semana com seus netos curtindo cada momento com eles. Contudo, durante a semana, estava muito ocioso e resolveu atuar como motorista de aplicativo. Identificou-se com a profissão por sua flexibilidade de horários e o dinheiro extra tem ajudado no complemento da aposentadoria, além disso, fica feliz em conhecer novas pessoas. Sua dedicação a profissão durante a semana chama atenção e saber se essas horas empenhadas têm sido bem remuneradas é importante para ele.  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/c274a49d-7f06-4968-a86c-f0156a5ee19e)
+
+
 
 ## Histórias de Usuários
 
@@ -52,7 +56,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
 |RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-003| Usuário terá segurança em seu login, ao tentar se conectar com login ou senha errado não acessaram o site e terá retorno de erro | Média | 
+|RNF-003| Usuário terá segurança em seu login, ao tentar se conectar com login ou senha errado não acessaram o site e terá retorno de erro | MÉDIA | 
+|RNF-004| A aplicação deve estar em conformidade com a Lei Geral de Proteção de Dados (LGPD).| MÉDIA |
 
 **Prioridade: Alta / Média / Baixa. 
 
