@@ -45,12 +45,6 @@ As despesas envolvem internet, gasolina, manutenção, revisões, imposto (IPVA)
 
 Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é um custo variável já que você terá este gasto de acordo com a quantidade km rodados, já o seguro e internet é um custo fixo que independem da demanda de clientes.
 
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
 ## Objetivos
 
 OBJETIVO GERAL: Como Objetivo central  propomos  auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
@@ -58,18 +52,11 @@ OBJETIVO GERAL: Como Objetivo central  propomos  auxiliar uma classe trabalhador
 OBJETIVOS ESPECÍFICOS: 
 
 - Levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
-- Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho. 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
+- Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho.
+- 
 Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
 
 Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho, buscando  melhor forma que viabilizem  o controle dos gastos e geração de mais renda ; e consequentemente esta melhora no padrão de renda, o profissional muito além de levar mais receita financeira para sua família, também  poderá ter condições de investir em sua qualificação profissional ou no veículo que é sua principal ferramenta de trabalho.  
-
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
