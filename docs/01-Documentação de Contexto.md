@@ -50,7 +50,7 @@ OBJETIVOS ESPECÍFICOS:
 
 - Melhor geranciamento por parte dos motoristas de aplicativo e entregadores de suas receitas e despesas;
 - Melhor gerenciamento por parte dos profissionais de seu tempo de trabalho;
-- Com uma gestão eficiente do orçamento, possibilitar  que os profissinais motoristas de aplicativo e entregadores possam planejar e promoveres capacitação profissinal e manutenção de seus veículos.
+- Com uma gestão eficiente do orçamento, possibilitar  que os profissinais motoristas de aplicativo e entregadores possam planejar e promover  capacitação profissinal e manutenção de seus veículos.
 
 
 
