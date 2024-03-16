@@ -52,12 +52,7 @@ OBJETIVOS ESPECÍFICOS:
 - Melhor gerenciamento por parte dos profissionais de seu tempo de trabalho;
 - Com uma gestão eficiente do orçamento, possibilitar  que os profissinais motoristas de aplicativo e entregadores possam planejar e promover  capacitação profissinal e manutenção de seus veículos.
 
-
-
-Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
-
-Desta forma os profissionais  poderão gerir  melhor seu orçamento de trabalho, buscando  melhor forma que viabilizem  o controle dos gastos e geração de mais renda ; e consequentemente esta melhora no padrão de renda, o profissional muito além de levar mais receita financeira para sua família, também  poderá ter condições de investir em sua qualificação profissional ou no veículo que é sua principal ferramenta de trabalho.  
-
+ 
 ## Público-Alvo
 
 Motoristas ou entregadores que frequentemente enfrentam dificuldades em compreender a gestão financeira, especialmente no que diz respeito à distribuição da receita em diferentes áreas, como IPVA, seguro, financiamento e aluguel veicular. No entanto, sentem uma forte necessidade de compreender seus lucros para alcançar um controle financeiro mais eficaz e eficiente.
