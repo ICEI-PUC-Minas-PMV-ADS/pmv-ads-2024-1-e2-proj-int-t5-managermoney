@@ -44,7 +44,7 @@ Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é 
 
 ## Objetivos
 
-OBJETIVO GERAL: Como Objetivo central  propomos  auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
+OBJETIVO GERAL: Auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
 
 OBJETIVOS ESPECÍFICOS: 
 
