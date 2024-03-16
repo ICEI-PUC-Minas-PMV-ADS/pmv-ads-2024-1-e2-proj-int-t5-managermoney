@@ -48,8 +48,11 @@ OBJETIVO GERAL:  Auxiliar uma classe trabalhadora responsável  por uma prestaç
 
 OBJETIVOS ESPECÍFICOS: 
 
-- Desenvolver uma aplicação que possibilite ao motorista de aplicativo  e entregadores a  levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
-- Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho.
+- Melhor geranciamento por parte dos motoristas de aplicativo e entregadores de suas receitas e despesas;
+- Melhor gerenciamento por parte dos profissionais de seu tempo de trabalho;
+- Com uma gestão eficiente das receitas, possibilitar  que os profissinais motoristas de aplicativo e entregadores  à promoveres capacitação profissinal e manutenção de seus veículos.
+
+
 
 Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
 
