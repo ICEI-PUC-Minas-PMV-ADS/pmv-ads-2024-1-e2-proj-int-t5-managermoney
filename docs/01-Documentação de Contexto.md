@@ -7,24 +7,29 @@ O aplicativo proporcionará uma visão abrangente das finanças dos motoristas, 
 ## Justificativa
 
 
-Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios no 4º trimestre de 2022 (PNAD,2022), Brasil tinha 1,5 milhão de trabalhadores por aplicativo, sendo que cerca de 778 mil pessoas exerciam em 2022 o trabalho principal por meio de aplicativos de transportes de passageiros.
+Segundo levantamentos do IBGE através  da Pesquisa Nacional por Amostra de Domicílios no 4º trimestre de 2022 PNAD(2022), Brasil tinha 1,5 milhão de trabalhadores por aplicativo, sendo que cerca de 778 mil pessoas exerciam em 2022 o trabalho principal por meio de aplicativos de transportes de passageiros.
 
 Por tipo de aplicativo, 52,2% (778 mil) exerciam o trabalho principal por meio de aplicativos de transporte de passageiros em ao menos um dos dois tipos listados (de táxi ou excluindo táxi). Em um olhar mais aprofundado, eram 47,2% (704 mil pessoas) os de transporte particular de passageiros (excluindo os de táxi) e 13,9% (207 mil) de aplicativos de táxi; 39,5% (589 mil) eram trabalhadores de aplicativos de entrega de comida, produtos etc., enquanto os trabalhadores de aplicativos de prestação de serviços gerais ou profissionais somavam 13,2% (197 mil). 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fa1d12ee-439c-4e13-aac4-b56ea33603f3)
-Fonte: Helena Pontes/Agência IBGE Notícias
+
+Fonte:  PNAD(2022)
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/fb8c01ae-c072-4a24-9769-f249fb77f06a)
 
+Fonte:  PNAD(2022)
 
 A renda dos motoristas plataformizados (R$2.454) era ligeiramente superior à dos motoristas não plataformizados (R$2.412).
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/c518c83f-8f34-4914-be06-e9314e738405)
 
+Fonte:  PNAD(2022)
+
 Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no trabalho principal, 50,8% (171 mil) realizavam trabalho por meio de aplicativos de entrega. Mas, diferentemente do observado para os motoristas, o rendimento habitual médio dos entregadores plataformizados (R$1.784) representava apenas 80,7% daquele recebido pelos não plataformizados (R$2.210). 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144861546/7919b7df-d0e6-4c6b-90bf-62e1728538ee)
 
+Fonte:  PNAD(2022)
 
 
 **Fontes:**
