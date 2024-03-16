@@ -44,11 +44,11 @@ Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é 
 
 ## Objetivos
 
-OBJETIVO GERAL: Auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
+OBJETIVO GERAL:  Auxiliar uma classe trabalhadora responsável  por uma prestação de serviço extremamente relevante para a sociedade moderna;  na gestão de seu Orçamento  na prestação de serviço de transporte por aplicativo ou de entrega, de forma  que possam efetivamente gerir suas receitas e custos  e que possam efetivamente obterem melhores lucros na prestação do serviço, e ocorrendo esta gestão e melhora em seu lucro e renda , isto irá contribuir com uma melhor qualidade de vida  para estes profissionais e sua família. 
 
 OBJETIVOS ESPECÍFICOS: 
 
-- Levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
+- Desenvolver uma aplicação que possibilite ao motorista de aplicativo  e entregadores a  levantar e apurar  os custos envolvidos na prestação de serviço motorista por aplicativo e entrega;
 - Confrontar as receitas e diversos custos  e gerar um relatório que possa auxiliar os profissinais na tomada de decisão de gestão de seu orçamento de trabalho.
 
 Baseando-se nos fatos mencionados, o grupo planeja desenvolver  uma  Aplicação  para  a gestão e controles dos custos envolvidos na prestação de serviço dos motoristas de aplicativo e entregadores.
