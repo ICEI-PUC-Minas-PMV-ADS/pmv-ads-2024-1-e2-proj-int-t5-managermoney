@@ -31,14 +31,6 @@ Entre os 338 mil condutores de motocicletas em atividades de malote e entrega no
 
 Fonte:  PNAD(2022)
 
-
-**Fontes:**
-> https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/38160-em-2022-1-5-milhao-de-pessoas-trabalharam-por-meio-de-aplicativos-de-servicos-no-pais
-> https://agenciagov.ebc.com.br/noticias/202403/proposta-de-projeto-de-lei-cria-pacote-de-direitos-para-motoristas-de-aplicativos
-> https://veja.abril.com.br/economia/brasil-tem-15-milhao-de-trabalhadores-por-aplicativo
-
-
-
 ## Problema
 
 Diante  as diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  entende-se ser apresentado como  Problema a dificuldade  de mensurar  Receitas e os diversos Custos envolvidos na atividade; propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
