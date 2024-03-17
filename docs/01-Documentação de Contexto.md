@@ -55,4 +55,4 @@ OBJETIVOS ESPECÍFICOS:
  
 ## Público-Alvo
 
-Motoristas ou entregadores que frequentemente enfrentam dificuldades em compreender a gestão financeira, especialmente no que diz respeito à distribuição da receita em diferentes áreas, como IPVA, seguro, financiamento e aluguel veicular. No entanto, sentem uma forte necessidade de compreender seus lucros para alcançar um controle financeiro mais eficaz e eficiente.
+Motoristas ou entregadores que sentem uma forte necessidade de compreender seus lucros para alcançar um controle financeiro mais eficaz e eficiente.
