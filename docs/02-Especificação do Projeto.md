@@ -87,8 +87,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![diagrama-caso-uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/146676562/4728bebb-6775-44e1-b376-a93373b7e900)
- 
+![diagrama-caso-uso](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/146676562/8cd57e12-34e7-4edf-b671-b24c52738e21)
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
 
