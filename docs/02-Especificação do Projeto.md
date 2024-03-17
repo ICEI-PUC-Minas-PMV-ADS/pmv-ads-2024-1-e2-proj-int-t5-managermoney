@@ -38,13 +38,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário se cadastre | ALTA | 
+|RF-001| A aplicação deve permitir que o usuário se cadastre e gerencie seus dados | ALTA | 
 |RF-002| A aplicação deve permitir que o usuário faça login | ALTA | 
-|RF-003| A aplicação deve permitir que o usuário edite o perfil | MÉDIA |
-|RF-004| A aplicação deve permitir inserções de saídas e entradas | ALTA |
-|RF-005| A aplicação deve permitir inserções de saídas que repetem de forma mensal ou semanal | BAIXA |
-|RF-006| A aplicação deve permitir o download do relatório completo do mês | MÉDIA |
-|RF-007| A aplicação deve permitir separar as saídas e entradas por categoria | BAIXA |
+|RF-003| A aplicação deve permitir que o usuário cadastre e gerencie seus veículos | ALTA |
+|RF-004| A aplicação deve permitir a inserção, gerenciamento e a categorização das despesas e receitas simples e que repetem de forma semanal/mensal | ALTA |
+|RF-005| A aplicação deve permitir o filtro, a visualização e o download do retatório completo do mês por dados simples ou gráficos | MÉDIA |
 
 ### Requisitos não Funcionais
 
