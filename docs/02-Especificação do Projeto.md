@@ -7,28 +7,26 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+<img align="left" height="150" width="150" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/202aa74f-133b-428b-9d78-8e9127a21e09" alt="Mateus"> Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administração. Gosta de se relacionar com as pessoas, solteiro, sem filhos e sonha trabalhar para a Administração Pública Federal. Muito meticuloso, sistemático e organizado com as suas coisas, busca saber se o tempo empenhado como motorista de aplicativo tem valido a pena para complementar a sua renda.
 
-Mateus Sobral tem 25 anos, motorista de aplicativo e estudante de Administração. Gosta de se relacionar com as pessoas, solteiro, sem filhos e sonha trabalhar para a Administração Pública Federal. Muito meticuloso, sistemático e organizado com as suas coisas, busca saber se o tempo empenhado como motorista de aplicativo tem válido a pena para complementar a sua renda.
-<img height="30" width="30" src="[URL_da_Imagem](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/202aa74f-133b-428b-9d78-8e9127a21e09)" alt="Mateus">
+<br> <!-- Adiciona espaço entre as imagens -->
 
+<img align="left" height="150" width="150" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/c9e5f893-c80e-42c0-ba94-7a7b09df4892" alt="Katia"> Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem-estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. O tempo com a sua família é super valorizado e otimizar os gastos para ter mais tempo livre para seus familiares é uma das suas principais prioridades.
 
+<br> <!-- Adiciona espaço entre as imagens -->
 
+<img align="left" height="150" width="150" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/0c75149d-ca62-46dd-9073-a1fea685f10a" alt="Livia"> Livia Fonseca tem 32 anos, após ficar desempregada optou por alugar um veículo e ser motorista de aplicativo. Tem uma boa comunicação, casada e tem dois filhos, como começou a ser motorista de aplicativo faz pouco tempo, a mesma precisa de auxílio com seus gastos e lucros para administrar melhor seu capital.
 
-Kátia Souza tem 36 anos, pedagoga e motorista de aplicativo. Casada e com um filho de 03 anos, sempre busca boas alternativas para ganhar um dinheiro extra, já que o bem-estar da sua família é algo precioso. Gosta de controlar, administrar todos os detalhes da vida familiar e, sobretudo, aspectos financeiros. O tempo com a sua família é super valorizado e otimizar os gastos para ter mais tempo livre para seus familiares é uma das suas principais prioridades.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/c9e5f893-c80e-42c0-ba94-7a7b09df4892)
+<br> <!-- Adiciona espaço entre as imagens -->
+<br> <!-- Adiciona espaço entre as imagens -->
 
+<img align="left" height="150" width="150" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/58c747a2-3e7a-4e27-a961-daea4b33eeb5" alt="Pedro"> Pedro Rocha tem 46 anos, entregador de aplicativo. Desde muito novo, gostava de andar de moto e a maior parte do tempo está sob duas rodas. Tentou algumas profissões anteriormente, mas identificou-se com a profissão de entregador de aplicativo pela sua paixão por motos. Sonha em fazer viagens internacionais, mas, para isso, precisa de uma moto nova, mais potente. Separar parte dos seus ganhos para realizar seu sonho, tornou-se seu principal objetivo.
 
-Livia Fonseca tem 32 anos, após ficar desempregada optou por alugar um veículo e ser motorista de aplicativo. Tem uma boa comunicação, casada e tem dois filhos, como começou a ser motorista de aplicativo faz pouco tempo, a mesmo precisa de auxílio com seus gastos e lucros para administrar melhor seu capital.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/0c75149d-ca62-46dd-9073-a1fea685f10a)
+<br> <!-- Adiciona espaço entre as imagens -->
 
+<img align="left" height="150" width="150" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/0ac68105-2561-4747-9767-18562918d7e8" alt="Sebastião"> Sebastião Alves, 57 anos, aposentado e motorista de aplicativo. Viúvo, duas filhas e três lindos netos. Avô coruja, adora passar o final de semana com seus netos curtindo cada momento com eles. Contudo, durante a semana, estava muito ocioso e resolveu atuar como motorista de aplicativo. Identificou-se com a profissão por sua flexibilidade de horários e o dinheiro extra tem ajudado no complemento da aposentadoria, além disso, fica feliz em conhecer novas pessoas. Sua dedicação à profissão durante a semana chama atenção e saber se essas horas empenhadas têm sido bem remuneradas é importante para ele.
 
-Pedro Rocha tem 46 anos, entregador de aplicativo. Desde muito novo, gostava de andar de moto e a maior parte do tempo está sob duas rodas. Tentou algumas profissões anteriormente, mas identificou-se com a profissão de entregador de aplicativo pela sua paixão por motos. Sonha em fazer viajens internacionais, mas, para isso, precisa de uma moto nova, mais potente. Separar parte dos seus ganhos para realizar seu sonho, tornou-se seu principal objetivo.
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/58c747a2-3e7a-4e27-a961-daea4b33eeb5)
-
-
-Sebastião Alves, 57 anos, aposentado e motorista de aplicativo. Viúvo, duas filhas e três lindos netos. Avô coruja, adora passar o final de semana com seus netos curtindo cada momento com eles. Contudo, durante a semana, estava muito ocioso e resolveu atuar como motorista de aplicativo. Identificou-se com a profissão por sua flexibilidade de horários e o dinheiro extra tem ajudado no complemento da aposentadoria, além disso, fica feliz em conhecer novas pessoas. Sua dedicação a profissão durante a semana chama atenção e saber se essas horas empenhadas têm sido bem remuneradas é importante para ele.  
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/144256546/0ac68105-2561-4747-9767-18562918d7e8)
-
+<br> <!-- Adiciona espaço entre as imagens -->
 
 ## Histórias de Usuários
 
