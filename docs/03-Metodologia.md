@@ -41,9 +41,9 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 Nesse contexto, a disposição da equipe será:
 - Scrum Master: Bruno Santos
-- Product Owner: João Zacarias
+- Product Owner: 
 - Equipe de Desenvolvimento: Bruno Santos, Lucas Macedo de Almeida, Guilherme Matsumura, Felipe Dante, Caio Rosa
-- Equipe de Design: Fabio Ribeiro
+- Equipe de Design: 
 
 ### Processo
 
