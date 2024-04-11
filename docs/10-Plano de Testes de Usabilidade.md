@@ -23,9 +23,10 @@ Existem diversos forma de Teste de usabilidade, dentre eles podemos citar: Desco
 
 - A satisfação do cliente, além da observação e comportamentos observados na gravação, será utilizado um questionário de entrevista e avaliação digital.
 
-- Pontos a serem observados na interação usuário/aplicação:
 
-** Dados quantitativos
+### Pontos a serem observados na interação usuário/aplicação:
+
+ ### Dados quantitativos
 
 - taxa de sucesso
 
@@ -35,13 +36,13 @@ Existem diversos forma de Teste de usabilidade, dentre eles podemos citar: Desco
 
 - número de vezes em que cada participante consultou ajuda, por tarefa
 
-* desempenho
+### Desempenho
 
 - tempo para realização de cada tarefa, por participante
 
 - número de itens de menu que o participante acessou antes de encontrar o “correto”
 
-**Dados qualitativos
+### Dados qualitativos
 
 - pontos positivos e negativos
 
