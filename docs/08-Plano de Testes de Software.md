@@ -9,6 +9,7 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
 Por exemplo:
  
 | **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+|:---:	|:---:	|
 |	Requisito Associado 	| RF-001 - A aplicação deve permitir que o usuário se cadastre. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos 	| - Acessar a aplicação <br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome completo, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
