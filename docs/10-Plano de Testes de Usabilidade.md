@@ -8,6 +8,8 @@ O teste de usabilidade é um método utilizado para se verificar  a interação 
  
 - Utilizaremos a forma de teste de usabilidade “Teste de aprendizagem”, onde disponibilizaremos nosso aplicativo a uma amostra de usuários que terão contato com a aplicação pela primeira vez, para realizar as tarefas de Cadastrar usuário, login, veículos, custos, etc... onde o usuário terá que começar do zero. Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva de aprendizado do usuário em relação ao uso do aplicativo.
 
+- Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4) debriefing; 5) relato.
+
 - Será selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
 
 -  Será utilizado algum método de gravação do usuário realizando as tarefas/uso do aplicativo; em ambiente controlado;
