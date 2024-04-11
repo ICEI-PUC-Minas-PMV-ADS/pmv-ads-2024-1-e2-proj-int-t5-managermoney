@@ -16,7 +16,7 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 -  Para registro do Teste de Usabilidade, será utilizado algum método de gravação do usuário (a ser definido)  realizando as tarefas/uso do aplicativo;
 
-- Serão selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
+- Será selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
   
 - Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4)debriefing(questionário/entrevista pós-teste); 5) relato(análise dos dados coletados).
 
