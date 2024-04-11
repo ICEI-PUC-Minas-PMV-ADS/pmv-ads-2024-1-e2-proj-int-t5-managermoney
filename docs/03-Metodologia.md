@@ -1,9 +1,9 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+Contextualizamos todo o processo relacionado ao desenvolvimento do sistema do Manager Money, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
 
 ## Controle de Versão
 
@@ -26,52 +26,44 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
-
 ## Gerenciamento de Projeto
+
+O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Nesse contexto, a disposição da equipe será:
+- Scrum Master: Bruno Santos
+- Product Owner: João Vitor 
+- Equipe de Desenvolvimento: Bruno Santos, Lucas Macedo de Almeida, Guilherme Matsumura, Felipe Dante, Caio Rosa, João Vitor, Fabio Ribeiro
+- Equipe de Design: Bruno Santos - João Vitor - Guilherme Matsumura
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Para a organização e distribuição das tarefas do projeto, a equipe está empregando o GitHub, configurado com base na metodologia Kanban:
+- Backlog: Recebe as tarefas a serem abordadas, representando o backlog do produto. Todas as atividades identificadas ao longo do projeto são integradas a esta lista.
+- To Do: Esta lista reflete o Sprint Backlog em execução, onde a equipe trabalha na maturação de ideias, referências, pensamentos, entre outros.
+- In Progress: Aqui são listadas as tarefas que já foram iniciadas, seja pela equipe como um todo ou de forma individual.
+- Ready for Test: Esta lista abriga as tarefas que foram concluídas e agora aguardam a fase de testes ou aprovação por parte de todos os membros do grupo.
+- Done: Nesta lista, são registradas as tarefas que foram finalizadas e aquelas que passaram pelos testes e pelo controle de qualidade, estando prontas para serem entregues aos usuários.
+
+O quadro kanban do grupo no GitHub pode ser acessado através deste link: https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/921 e sua versão atual é exibida na figura abaixo:
+
+![Kanban](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/blob/main/docs/img/backlog1.png)
+Figura 1 - Configuração do Kanban utilizada no github
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas empregadas na produção do projeto foram:
+- Editor de Códigos: Visual Studio Code 2023 (versão 1.82).
+- Github Issues: Utilizado para apoiar as etapas e processos de produção do projeto.
+- MicrosoftTeams: Empregado para facilitar a interação entre os membros da equipe, assim como para a realização de reuniões.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+As escolhas de ferramentas foram feitas com base na eficiência e colaboração. O Visual Studio Code foi selecionado por sua flexibilidade ao lidar com diferentes tipos de tarefas de codificação. O GitHub Issues proporcionou uma gestão eficaz das etapas do projeto, enquanto o Microsoft Teams foi essencial para facilitar a comunicação e promover reuniões produtivas entre os membros da equipe.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+| AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
+|-------------------------------------|------------------------------------|----------------------------------------|
+| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t13-taskmaster/blob/main/codigo-fonte/README.md                          |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney                           |
+| Projeto de Interface                | Figma                              | https://www.figma.com/file/zx8YXehpu6rctiD9ijgIbJ/Untitled?type=design&node-id=0-1&mode=design&t=CkzspqkNVn4FvkBj-0 |
+| Gerenciamento do Projeto            | GitHub Projects                    | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/921                          |
