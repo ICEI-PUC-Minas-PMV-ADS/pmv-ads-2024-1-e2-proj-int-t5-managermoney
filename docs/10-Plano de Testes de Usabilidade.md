@@ -14,7 +14,7 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 -  Será solicitado ao usuário:
 
-1) Cadastrar na Plataforma,  2)Fazer Loguin; 3)Fazer cadastramento de Veículo(s);  4) Cadastrar Transações;   5) Fazer consultas
+1. Cadastrar na Plataforma,  2. Fazer Loguin;  3. Fazer cadastramento de Veículo(s);  4. Cadastrar Transações;   5. Fazer consultas
 
 -  Para registro do Teste de Usabilidade, será utilizado  método de gravação do usuário realizando as tarefas/uso do aplicativo; em ambiente controlado;
 
