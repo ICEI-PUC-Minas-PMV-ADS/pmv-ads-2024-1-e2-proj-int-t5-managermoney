@@ -9,7 +9,7 @@ Existem diversos forma de Teste de usabilidade, dentre eles podemos citar: Desco
  
 - Utilizaremos a forma de teste de usabilidade “Teste de aprendizagem”, onde disponibilizaremos nosso aplicativo a uma amostra de usuários que terão contato com a aplicação pela primeira vez, para realizar as tarefas de Cadastrar usuário, login, veículos, custos, etc... onde o usuário terá que começar do zero. Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva de aprendizado do usuário em relação ao uso do aplicativo.
 
-- Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4) debriefing(questionário/entrevista pós-teste); 5) relato(análise dos dados coletados).
+- Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4)debriefing(questionário/entrevista pós-teste); 5) relato(análise dos dados coletados).
 
 - Será selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
 
