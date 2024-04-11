@@ -42,7 +42,7 @@
 |Requisito Associado | RF-007	- A aplicação deve oferecer segurança e privacidade as informações do usuário. |
 | Objetivo do Teste 	| Verificar se o aplicativo cumpre com a segurança e privacidade dos dados. |
 | Passos 	| - Acessar a aba "Login" da aplicação <br> - Preencher os campos com credenciais inválidas  <br> - Clicar no botão "Entrar" e observar se a aplicação irá te direcionar para tela inicial como se estivesse logado.
-|Critério de Êxito | - Seu usuário ou senha incorretos. |
+|Critério de Êxito | - Usuário ou senha incorretos. |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
