@@ -20,7 +20,7 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
   
 - Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4)debriefing(questionário/entrevista pós-teste); 5) relato(análise dos dados coletados).
 
--  Será utilizado algum método de gravação a ser definido do usuário realizando as tarefas/uso do aplicativo; em ambiente controlado;
+-  Será utilizado algum método de gravação do usuário (a ser definido)  realizando as tarefas/uso do aplicativo; em ambiente controlado;
 
 - Serão avaliados os dados da interação do usuário com o aplicativo, tempo gasto pelos usuários nas tarefas, etc...
 
