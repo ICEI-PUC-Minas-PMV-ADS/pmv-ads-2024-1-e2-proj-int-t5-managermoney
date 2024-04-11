@@ -9,10 +9,9 @@ Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o
 Por exemplo:
  
 | **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
-|:---:	|:---:	|
 |	Requisito Associado 	| RF-001 - A aplicação deve permitir que o usuário se cadastre. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar a aplicação <br> <br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome completo, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
+| Passos 	| - Acessar a aplicação <br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome completo, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-02 – Efetuar login**	|
@@ -30,13 +29,13 @@ Por exemplo:
 | **Caso de Teste** 	| **CT-04 – Registro de receitas e despesas** 	|
 |	Requisito Associado 	| RF-004 - A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas. |
 | Objetivo do Teste 	| Verificar se o usuário consegue adicionar seus ganhos e gastos. |
-| Passos 	| - Acessar a aba "Finanças" na aplicação <br> <br> - Clicar em "Adicionar gasto" preenchendo o valor e com o que gastou <br> - Clicar em "Adicionar ganho" com o valor assim que terminar uma entrega ou corrida. <br> - Clicar em "Salvar"|
+| Passos 	| - Acessar a aba "Finanças" na aplicação <br> - Clicar em "Adicionar gasto" preenchendo o valor e com o que gastou <br> - Clicar em "Adicionar ganho" com o valor assim que terminar uma entrega ou corrida. <br> - Clicar em "Salvar"|
 |Critério de Êxito | - Registo de receitas e despesas atualizada. |
 |   |    |
 | **Caso de Teste** 	| **CT-05 – Alterar informações cadastrais** 	|
 |	Requisito Associado 	| RF-005 - A aplicação deve permitir que o usuário altere suas informações cadastrais. |
 | Objetivo do Teste 	| Verificar se o usuário consegue alterar suas informações cadastrais. |
-| Passos 	| - Acessar a aba "Conta" <br> <br> - Clicar em "Dados cadastrais" <br> - Fazer a alteração no campo desejado <br> - Clicar em "Salvar" |
+| Passos 	| - Acessar a aba "Conta" <br> - Clicar em "Dados cadastrais" <br> - Fazer a alteração no campo desejado <br> - Clicar em "Salvar" |
 |Critério de Êxito | - O cadastro foi atualizado com sucesso. |
 
 
