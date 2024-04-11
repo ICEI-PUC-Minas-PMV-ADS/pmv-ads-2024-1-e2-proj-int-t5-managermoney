@@ -20,6 +20,8 @@ Por exemplo:
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar a aba de login na aplicação <br> - Preencher os campos obrigatórios <br> - Clicar no botão "Entrar"
 |Critério de Êxito | - O login foi realizado com sucesso. |
+|   |    |
+|   |    |
 | **Caso de Teste** 	| **CT-03 – Cadastrar veículo**	|
 |Requisito Associado | RF-003	- A aplicação deve permitir que o usuário cadastre o seu veículo. |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar o seu veículo. |
