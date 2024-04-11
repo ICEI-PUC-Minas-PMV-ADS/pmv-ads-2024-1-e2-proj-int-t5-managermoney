@@ -8,9 +8,13 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário se cadastre | cadastro.html / cadastro.cs / cadastros.cs | 
-|RF-002| A aplicação deve permitir que o usuário faça login   | login.html |
-|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   | veiculo.html |
+|RF-001| A aplicação deve permitir que o usuário se cadastre |  | 
+|RF-002| A aplicação deve permitir que o usuário faça login   |  |
+|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   |  |
+|RF-004| A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas   |  |
+|RF-005| A aplicação deve permitir que o usuário altere suas informações cadastrais    |  |
+|RF-007| A aplicação deve fazer o cálculo de lucros e prejuízos do usuário     |  |
+|RF-008| A aplicação deve oferecer segurança e privacidade as informações dos usuários    |  |
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
