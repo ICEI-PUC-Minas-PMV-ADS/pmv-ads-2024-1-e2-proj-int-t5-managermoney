@@ -14,15 +14,13 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 -  Será solicitado ao usuário:   1) Cadastrar na Plataforma,  2) Fazer Loguin;  3) Fazer cadastramento de Veículo(s);  4) Cadastrar Transações;   5) Fazer consultas
 
--  Para registro do Teste de Usabilidade, será utilizado  método de gravação do usuário realizando as tarefas/uso do aplicativo; em ambiente controlado;
+-  Para registro do Teste de Usabilidade, será utilizado algum método de gravação do usuário (a ser definido)  realizando as tarefas/uso do aplicativo;
 
-- Será selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
+- Serão selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
   
 - Etapas a serem seguidas no plano de testes: 1) recrutamento;  2) preparação; 3) condução; 4)debriefing(questionário/entrevista pós-teste); 5) relato(análise dos dados coletados).
 
--  Será utilizado algum método de gravação do usuário (a ser definido)  realizando as tarefas/uso do aplicativo; em ambiente controlado;
-
-- Serão avaliados os dados da interação do usuário com o aplicativo, tempo gasto pelos usuários nas tarefas, etc...
+ - Serão avaliados os dados da interação do usuário com o aplicativo, tempo gasto pelos usuários nas tarefas, etc...
 
 - A satisfação do cliente, além da observação e comportamentos observados na gravação, será utilizado um questionário de entrevista e avaliação digital.
 
