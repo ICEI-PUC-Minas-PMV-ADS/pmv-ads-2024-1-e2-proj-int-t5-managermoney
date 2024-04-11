@@ -51,7 +51,7 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 ## Análise dos Resultados do Teste de Usabilidade
 
-Os resultados obtidos com os Testes de Usabilidade serão subsidio para que a equipe de desenvolvimento promova melhorias na aplicação.
+Os resultados obtidos com os Testes de Usabilidade serão subsidio de fundamental importância para que a equipe de desenvolvimento promova melhorias na aplicação.
 
 
 
