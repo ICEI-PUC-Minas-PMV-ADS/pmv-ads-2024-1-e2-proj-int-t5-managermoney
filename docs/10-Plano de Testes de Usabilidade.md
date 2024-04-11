@@ -10,7 +10,37 @@ O teste de usabilidade é um método utilizado para se verificar  a interação 
 
 - Será selecionada uma amostra de 10 participantes motoristas de aplicativos e entregadores
 
--
+-  Será utilizado algum método de gravação do usuário realizando as tarefas/uso do aplicativo; em ambiente controlado;
+
+- Serão avaliados os dados da interação do usuário com o aplicativo, tempo gasto pelos usuários nas tarefas, etc...
+
+- A satisfação do cliente, além da observação e comportamentos observados na gravação, será utilizado um questionário de entrevista e avaliação digital.
+
+- Pontos a serem observados na interação usuário/aplicação:
+
+** dados quantitativos
+
+- taxa de sucesso
+
+- número de participantes que concluiu cada tarefa
+
+- número de erros cometidos, por tipo de erro, por tarefa, por participante
+
+- número de vezes em que cada participante consultou ajuda, por tarefa
+
+* desempenho
+
+- tempo para realização de cada tarefa, por participante
+
+- número de itens de menu que o participante acessou antes de encontrar o
+
+“correto”
+
+**dados qualitativos
+
+- pontos positivos e negativos
+
+- expectativas e quebra de expectativas
 
 
 
