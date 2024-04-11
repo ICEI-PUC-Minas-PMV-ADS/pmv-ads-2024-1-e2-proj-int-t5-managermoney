@@ -32,9 +32,7 @@ O teste de usabilidade é um método utilizado para se verificar  a interação 
 
 - tempo para realização de cada tarefa, por participante
 
-- número de itens de menu que o participante acessou antes de encontrar o
-
-“correto”
+- número de itens de menu que o participante acessou antes de encontrar o “correto”
 
 **dados qualitativos
 
