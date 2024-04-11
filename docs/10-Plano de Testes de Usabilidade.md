@@ -49,6 +49,11 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 - expectativas e quebra de expectativas
 
+## Análise dos Resultados do Teste de Usabilidade
+
+Os resultados obtidos com os Testes de Usabilidade serão subsidio para que a equipe de desenvolvimento promova melhorias na aplicação.
+
+
 
 
 > **Links Úteis**:
