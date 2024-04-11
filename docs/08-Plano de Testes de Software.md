@@ -31,8 +31,18 @@
 | Objetivo do Teste 	| Verificar se o usuário consegue alterar suas informações cadastrais. |
 | Passos 	| - Acessar a aba "Conta" <br> - Clicar em "Dados cadastrais" <br> - Fazer a alteração no campo desejado <br> - Clicar em "Salvar" |
 |Critério de Êxito | - O cadastro foi atualizado com sucesso. |
-
-
+|   |    |
+| **Caso de Teste** 	| **CT-06 – Cálculo de lucros e prejuízos**	|
+|Requisito Associado | RF-006	- A aplicação deve fazer o calculo de lucros e prejuízos do usuário. |
+| Objetivo do Teste 	| Verificar se o aplicativo faz os cálculos das receitas e gastos do usuário. |
+| Passos 	| - Acessar a aba "Finanças" <br> - Preencher os campos tais como "Adicionar gasto e Adicionar ganho"  <br> - Clicar no botão "Salvar" e observar se a aplicação faz o cálculo.
+|Critério de Êxito | - Registro de receitas e despesas atualizada. |
+|   |    |
+| **Caso de Teste** 	| **CT-07 – Segurança e privacidade**	|
+|Requisito Associado | RF-007	- A aplicação deve oferecer segurança e privacidade as informações do usuário. |
+| Objetivo do Teste 	| Verificar se o aplicativo cumpre com a segurança e privacidade dos dados. |
+| Passos 	| - Acessar a aba "Login" da aplicação <br> - Preencher os campos com credenciais inválidas  <br> - Clicar no botão "Entrar" e observar se a aplicação irá te direcionar para tela inicial como se estivesse logado.
+|Critério de Êxito | - Seu usuário ou senha incorretos. |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
