@@ -21,7 +21,7 @@ Existem diversos forma de Teste de usabilidade, dentre eles podemos citar: Desco
 
 - Pontos a serem observados na interação usuário/aplicação:
 
-** dados quantitativos
+** Dados quantitativos
 
 - taxa de sucesso
 
@@ -37,7 +37,7 @@ Existem diversos forma de Teste de usabilidade, dentre eles podemos citar: Desco
 
 - número de itens de menu que o participante acessou antes de encontrar o “correto”
 
-**dados qualitativos
+**Dados qualitativos
 
 - pontos positivos e negativos
 
