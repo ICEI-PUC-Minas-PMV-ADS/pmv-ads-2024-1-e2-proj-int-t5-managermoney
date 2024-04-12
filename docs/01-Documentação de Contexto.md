@@ -1,6 +1,6 @@
 # Introdução
 
-O aplicativo proporcionará uma visão abrangente das finanças dos motoristas, auxiliando-os no controle de despesas, receitas e lucros líquidos. Com essas funcionalidades, os usuários poderão tomar decisões financeiras mais informadas e otimizar seus ganhos como motoristas de aplicativo. Este projeto visa desenvolver um aplicativo de finanças destinado a usuários que trabalham com entregas de aplicativos de corrida, incluindo entregadores de comida e motoristas de Uber, entre outros tipos de corridas.
+No cenário contemporâneo, em que a economia compartilhada se destaca, a gestão financeira torna-se fundamental para profissionais autônomos, especialmente para os motoristas que atuam em aplicativos de transporte e entrega. Este projeto propõe o desenvolvimento de um aplicativo de finanças voltado para esse público específico de motoristas de aplicativo, englobando não apenas os condutores de Uber, mas também os entregadores de comida e outros prestadores de serviços similares.
 
 
 
