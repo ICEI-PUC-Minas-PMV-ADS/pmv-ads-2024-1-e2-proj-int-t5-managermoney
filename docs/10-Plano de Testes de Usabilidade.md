@@ -83,12 +83,32 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Caso de Teste** 	| **CTU-06 – Criação de lista de veículos** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a funcionalidade de criação de lista de novos veículos 	|
-| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, acesse Minha Conta;<br>6. Clicar no botão “Gerenciar Veículos”;<br>7. Clicar em "Adicionar novo veículo"; <br>8. Nomear o veículo adicionado;<br>9. Adicionar dados do veículo (placa, quilometragem, descrição)</br>; 10. Clicar no botão ‘Salvar Veículo’. 	|
+| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, acesse Minha Conta;<br>6. Clicar no botão “Gerenciar Veículos”;<br>7. Clicar em "Adicionar novo veículo"; <br>8. Nomear o veículo adicionado;<br>9. Adicionar dados do veículo (placa, quilometragem, descrição);</br> 10. Clicar no botão ‘Salvar Veículo’. 	|
 |  	|  	|
 | **Caso de Teste** 	| **CTU-07 – Pesquisa/Busca de veículos** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Buscar/pesquisar veículos na lista preexistente 	|
 | **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, clicar no botão “Veículos”;<br>6. Na tela de Buscar Veículos, pesquise o modelo, a descrição ou ID desejado. 	|
+|  	|  	|
+| **Caso de Teste** 	| **CTU-08 – Tela Funcionalidades + Gerenciar Transações existentes na aplicação** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a tela de exibição das transações 	|
+| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Verificar se a página exibe uma lista de transações cadastradas anteriormente. 	|
+|  	|  	|
+| **Caso de Teste** 	| **CTU-09 – Criação de lista de transações** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar a funcionalidade de criação de lista de novas transações 	|
+| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, acesse Minha Conta;<br>6. Clicar no botão “Gerenciar Transações”;<br>7. Clicar em "Adicionar nova transação"; <br>8. Nomear a transação adicionada;<br>9. Adicionar dados da transação (valor, categoria, parcelamento);</br> 10. Clicar no botão ‘Salvar Transação’. 	|
+|  	|  	|
+| **Caso de Teste** 	| **CTU-10 – Pesquisa/Busca de transação** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Buscar/pesquisar transação na lista preexistente 	|
+| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, clicar no botão “Transações”;<br>6. Na tela de Buscar Transação, pesquise a categoria, a descrição, a quantidade de parcelas ou ID desejado. 	|
+|  	|  	|
+| **Caso de Teste** 	| **CTU-11 – Verificar se o sistema é responsivo** 	|
+| **Perfil** 	| Usuário 	|
+| **Objetivo do Teste** 	| Avaliar se a aplicação é responsiva nos navegadores Chrome, Firefox, Edge, Safari e smartphones android e IOS 	|
+| **Passos** 	| 1. Acessar o navegador;<br>2. Informar o endereço do Site;<br>3. Realizar o login;<br>4. Percorrer as páginas e funcionalidades da aplicação;<br>5. Verificar se as informações estão ordenadas de uma forma clara na tela. 	|
 |  	|  	|
 
 
