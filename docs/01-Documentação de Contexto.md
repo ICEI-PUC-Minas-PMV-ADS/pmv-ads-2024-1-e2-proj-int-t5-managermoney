@@ -33,14 +33,13 @@ Fonte:  PNAD(2022)
 
 ## Problema
 
-Diante  as diversas variáveis a serem consideradas na apuração do Orçamento  para  profissionais Motoristas de aplicativos e Entregadores;  entende-se ser apresentado como  Problema a dificuldade  de mensurar  Receitas e os diversos Custos envolvidos na atividade; propõe-se o  a concepção e desenvolvimento de uma ferramenta que possa auxiliar estes profissionais  a apurarem;    controlar  seus gastos/custos juntamente com a receita obtida advinda da prestação de serviço de transporte. 
+Diante das diversas variáveis a serem consideradas na apuração do orçamento para profissionais como motoristas de aplicativos e entregadores, surge um problema significativo: a dificuldade de mensurar receitas e os diversos custos envolvidos na atividade.
 
-A margem de lucro é um indicador financeiro que mede a diferença entre o custo de produção de um produto ou serviço e o seu preço de venda. Em outras palavras, é o valor que sobra após descontar todos os custos envolvidos na produção ou prestação de um serviço.
-Para se ter a real noção de sua margem de lucro o profissional deve ter contabilizados de forma clara seus custos/despesas e receitas.
+A margem de lucro, um indicador financeiro que mede a diferença entre o custo de produção de um serviço e o seu preço de venda, é particularmente desafiadora de calcular. Para se ter uma real noção da margem de lucro, o profissional deve ter seus custos/despesas e receitas contabilizados de forma clara.
 
-As despesas envolvem internet, gasolina, manutenção, revisões, imposto (IPVA), seguro, limpeza, aluguel ou parcelamento do veículo, alimentação e outras questões como multas e batidas que fazem parte do dia a dia do transito. É muito importe ter tudo isto calculado com uma reserva para imprevistos.
+As despesas envolvidas são muitas e variadas, incluindo internet, gasolina, manutenção, revisões, imposto (IPVA), seguro, limpeza, aluguel ou parcelamento do veículo, alimentação e outras questões como multas e batidas que fazem parte do dia a dia do trânsito. Além disso, é importante ter uma reserva para imprevistos.
 
-Importante, separe o que é custo fixo de variável, por ex. gasolina, pneus é um custo variável já que você terá este gasto de acordo com a quantidade km rodados, já o seguro e internet é um custo fixo que independem da demanda de clientes.
+Outro aspecto desafiador é a separação do que é custo fixo de variável. Por exemplo, gasolina e pneus são custos variáveis, pois você terá este gasto de acordo com a quantidade de km rodados, já o seguro e internet são custos fixos que independem da demanda de clientes.
 
 ## Objetivos
 
