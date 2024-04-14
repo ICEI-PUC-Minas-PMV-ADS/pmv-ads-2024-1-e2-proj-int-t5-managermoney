@@ -12,7 +12,7 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 ##  Teste de Usabilidade se dará em formato de “MISSÕES”:
 
--  Será solicitado ao usuário:   1) Cadastrar na Plataforma,  2) Fazer Loguin;  3) Fazer cadastramento de Veículo(s);  4) Cadastrar Transações;   5) Fazer consultas
+-  Será solicitado ao usuário:   1) Cadastrar na Plataforma,  2) Fazer Login;  3) Fazer cadastramento de Veículo(s);  4) Cadastrar Transações;   5) Fazer consultas
 
 -  Para registro do Teste de Usabilidade, será utilizado algum método de gravação do usuário (a ser definido)  realizando as tarefas/uso do aplicativo;
 
@@ -51,13 +51,12 @@ Assim que o usuário realizar as tarefas diversas vezes será avaliada a curva d
 
 ## Análise dos Resultados do Teste de Usabilidade
 
-Os resultados obtidos com os Testes de Usabilidade serão subsidio de fundamental importância para que a equipe de desenvolvimento promova melhorias na aplicação.
+A análise do resultado do teste de usabilidade será registrado na planilha, conforme modelo abaixo:
 
-
-
-
-> **Links Úteis**:
-> - [Teste De Usabilidade: O Que É e Como Fazer Passo a Passo (neilpatel.com)](https://neilpatel.com/br/blog/teste-de-usabilidade/)
-> - [Teste de usabilidade: tudo o que você precisa saber! | by Jon Vieira | Aela.io | Medium](https://medium.com/aela/teste-de-usabilidade-o-que-voc%C3%AA-precisa-saber-39a36343d9a6/)
-> - [Planejando testes de usabilidade: o que (e o que não) fazer | iMasters](https://imasters.com.br/design-ux/planejando-testes-de-usabilidade-o-que-e-o-que-nao-fazer/)
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 1	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 2 | --- 	| --- | ---  | --- | --- | --- |
+| Usuário 3	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 4	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 5	| --- 	| --- | ---  | --- | --- | --- |
