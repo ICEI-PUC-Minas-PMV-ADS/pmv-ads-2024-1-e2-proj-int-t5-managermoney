@@ -15,7 +15,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Projeto da Base de Dados
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/83991082/8135dc0d-2a1b-47e0-9323-740a18923538)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/83991082/a6ca142c-4610-4a03-b0b7-26ab6aead5df)
 
 ## Tecnologias Utilizadas
 
