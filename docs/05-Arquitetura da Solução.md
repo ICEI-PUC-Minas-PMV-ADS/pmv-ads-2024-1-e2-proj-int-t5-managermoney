@@ -10,8 +10,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER (Projeto Conceitual)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/83991082/e0a2a348-83b0-45f2-86e9-a0187ba8b5ce)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-int-t5-managermoney/assets/83991082/41b65e9a-ac82-4946-a610-7be411d7c65e)
 
 
 ## Projeto da Base de Dados
