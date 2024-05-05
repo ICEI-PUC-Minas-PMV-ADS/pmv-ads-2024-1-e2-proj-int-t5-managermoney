@@ -7,7 +7,7 @@ namespace ManagerMoney.Models
     [Table("Veiculos")]
     public class Veiculo
     {
-        [Key]
+        
         public int Id { get; set; }
 
         [Required(ErrorMessage ="Obrigatório informar o nome")]
