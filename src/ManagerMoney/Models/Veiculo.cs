@@ -12,7 +12,7 @@ namespace ManagerMoney.Models
 
         [Required(ErrorMessage ="Obrigatório informar o nome")]
         public string Nome { get; set; }
-        
+
 
         [Required(ErrorMessage = "Obrigatório informar a Placa")]
         public string Placa { get; set; }

@@ -10,6 +10,7 @@ namespace ManagerMoney.Models
 
         public DbSet<Veiculo> Veiculos { get; set;}
 
+        public DbSet<Cadastroveiculo> CadastroVeiculos { get; set; }
 
     }
 }
