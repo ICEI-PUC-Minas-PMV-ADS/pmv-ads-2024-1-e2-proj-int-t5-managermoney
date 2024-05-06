@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Migrations\20240505013656_M02-AddTableVeiculo.cs" />
+    <Compile Remove="Migrations\20240505013656_M02-AddTableVeiculo.Designer.cs" />
+    <Compile Remove="Migrations\20240505030231_M02_AddTableVeiculos.cs" />
+    <Compile Remove="Migrations\20240505030231_M02_AddTableVeiculos.Designer.cs" />
+    <Compile Remove="Migrations\20240505034319_M02_AddTableVeiculos.cs" />
+    <Compile Remove="Migrations\20240505034319_M02_AddTableVeiculos.Designer.cs" />
+    <Compile Remove="Models\Class.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />

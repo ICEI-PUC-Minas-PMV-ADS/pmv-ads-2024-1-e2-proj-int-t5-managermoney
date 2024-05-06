@@ -1,4 +1,4 @@
-# ManagerMOney
+# ManagerMoney
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
