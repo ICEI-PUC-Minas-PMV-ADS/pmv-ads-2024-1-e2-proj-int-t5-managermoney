@@ -20,6 +20,25 @@ namespace ManagerMoney.Controllers
 
             return View(dados);
         }
+        public IActionResult  Create()
+        {
+            return View();
 
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Cadastroveiculo cadastroveiculo)
+        {
+
+            if(ModelState.IsValid)
+            {
+                _context.CadastroVeiculos.Add(Cadastroveiculo)
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+            }
+
+            return View(Cadastroveiculo);
+
+        }
     }
 }
