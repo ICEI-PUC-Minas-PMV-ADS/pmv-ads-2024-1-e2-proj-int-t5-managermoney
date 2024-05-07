@@ -1,6 +1,7 @@
 ﻿using ManagerMoney.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ManagerMoney.Controllers
 {
@@ -20,7 +21,9 @@ namespace ManagerMoney.Controllers
 
             return View(dados);
         }
-        public IActionResult  Create()
+
+
+        public IActionResult Create()
         {
             return View();
 
@@ -30,15 +33,37 @@ namespace ManagerMoney.Controllers
         public async Task<IActionResult> Create(Cadastroveiculo Cadastroveiculo)
         {
 
-            if (ModelState.IsValid) ;
-            {
-                _context.CadastroVeiculos.Add(Cadastroveiculo);
-                await _context.SaveChangesAsync();
-                return RedirectToAction("Index");
-            }
+          
 
             return View(Cadastroveiculo);
 
         }
+
+        public async  task<IActionResult> Edit(int? id)
+        {
+            if(id == null)  
+                return NotFound();
+
+            var dados=await _context.CadastroVeiculos. FindAsync()    
+            
+            if(dados == null)
+
+            return NotFound();
+
+            return View();  
+        }
+
+            [HttpPost]
+        public IActionResult Edit(int id, Cadastroveiculo cadatroveiculo) 
+        {   
+
+        if (id! = Cadastroveidulo.Id    )      
+
+
+        return View();
+
+        }
+        
+
     }
 }
