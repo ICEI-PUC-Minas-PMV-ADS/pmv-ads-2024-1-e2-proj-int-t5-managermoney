@@ -32,35 +32,52 @@ namespace ManagerMoney.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(Cadastroveiculo Cadastroveiculo)
         {
+            if (ModelState.IsValid)
 
-          
+            {
+                _context.CadastroVeiculos.Add(Cadastroveiculo);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");   
+
+            }
 
             return View(Cadastroveiculo);
 
         }
 
-        public async  task<IActionResult> Edit(int? id)
+
+        public async  Task<IActionResult> Edit(int? id)
         {
             if(id == null)  
                 return NotFound();
 
-            var dados=await _context.CadastroVeiculos. FindAsync()    
+            var dados = await _context.CadastroVeiculos.FindAsync(id);    
             
             if(dados == null)
 
-            return NotFound();
+                return NotFound();
 
             return View();  
         }
 
             [HttpPost]
-        public IActionResult Edit(int id, Cadastroveiculo cadatroveiculo) 
-        {   
+        public async Task<IActionResult> Edit(int id, Cadastroveiculo cadatroveiculo) 
+        {
 
-        if (id! = Cadastroveidulo.Id    )      
+            if (id != cadatroveiculo.Id)
+                return NotFound();
+
+            if (ModelState.IsValid)
+
+            {
+                _context.CadastroVeiculos.Update(cadatroveiculo);
+                await _context.SaveChangesAsync();
+                return RedirectToAction("Index");
+
+            }
 
 
-        return View();
+            return View();
 
         }
         
