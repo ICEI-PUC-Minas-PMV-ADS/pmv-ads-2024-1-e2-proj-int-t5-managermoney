@@ -27,12 +27,12 @@ namespace ManagerMoney.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Cadastroveiculo cadastroveiculo)
+        public async Task<IActionResult> Create(Cadastroveiculo Cadastroveiculo)
         {
 
-            if(ModelState.IsValid)
+            if (ModelState.IsValid) ;
             {
-                _context.CadastroVeiculos.Add(Cadastroveiculo)
+                _context.CadastroVeiculos.Add(Cadastroveiculo);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
