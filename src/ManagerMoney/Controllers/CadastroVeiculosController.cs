@@ -38,7 +38,7 @@ namespace ManagerMoney.Controllers
             {
                 _context.CadastroVeiculos.Add(cadastroveiculo);
                 await _context.SaveChangesAsync();
-                return RedirectToAction("Index");   
+                return RedirectToAction("Index");
 
             }
 
@@ -47,26 +47,26 @@ namespace ManagerMoney.Controllers
         }
 
 
-        public async  Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
-            if(id == null)  
+            if (id == null)
                 return NotFound();
 
-            var dados = await _context.CadastroVeiculos.FindAsync(id);    
-            
-            if(dados == null)
+            var dados = await _context.CadastroVeiculos.FindAsync(id);
+
+            if (dados == null)
 
                 return NotFound();
 
-            return View(dados);  
+            return View(dados);
         }
 
-            [HttpPost]
-        public async Task<IActionResult> Edit(int id, Cadastroveiculo cadastroveiculo) 
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, Cadastroveiculo cadastroveiculo)
         {
 
-                 if (id != cadastroveiculo.Id)
-                     return NotFound();
+            if (id != cadastroveiculo.Id)
+                return NotFound();
 
             if (ModelState.IsValid)
 
@@ -95,8 +95,36 @@ namespace ManagerMoney.Controllers
             return View(dados);
         }
 
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+                return NotFound();
 
+            var dados = await _context.CadastroVeiculos.FindAsync(id);
 
+            if (dados == null)
+                return NotFound();
 
+            return View(dados);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var dados = await _context.CadastroVeiculos.FindAsync(id);
+
+            if (dados == null)
+                return NotFound();
+
+            _context.CadastroVeiculos.Remove(dados);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction("Index");
+
+        }
     }
-} 
+
+}
