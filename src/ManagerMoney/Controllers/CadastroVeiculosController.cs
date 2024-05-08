@@ -1,6 +1,7 @@
 ﻿using ManagerMoney.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ManagerMoney.Controllers
@@ -30,18 +31,18 @@ namespace ManagerMoney.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(Cadastroveiculo Cadastroveiculo)
+        public async Task<IActionResult> Create(Cadastroveiculo cadastroveiculo)
         {
             if (ModelState.IsValid)
 
             {
-                _context.CadastroVeiculos.Add(Cadastroveiculo);
+                _context.CadastroVeiculos.Add(cadastroveiculo);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");   
 
             }
 
-            return View(Cadastroveiculo);
+            return View(cadastroveiculo);
 
         }
 
@@ -61,16 +62,16 @@ namespace ManagerMoney.Controllers
         }
 
             [HttpPost]
-        public async Task<IActionResult> Edit(int id, Cadastroveiculo cadatroveiculo) 
+        public async Task<IActionResult> Edit(int id, Cadastroveiculo cadastroveiculo) 
         {
 
-            if (id != cadatroveiculo.Id)
+                 if (id != cadastroveiculo.Id)
                 return NotFound();
 
             if (ModelState.IsValid)
 
             {
-                _context.CadastroVeiculos.Update(cadatroveiculo);
+                _context.CadastroVeiculos.Update(cadastroveiculo);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");
 
@@ -80,7 +81,20 @@ namespace ManagerMoney.Controllers
             return View();
 
         }
-        
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var dados = await _context.CadastroVeiculos.FindAsync(id);
+
+            if (dados == null)
+                return NotFound();
+
+            return View(dados);  
+        }
 
     }
-}
+}.  
+    
