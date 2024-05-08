@@ -1,15 +1,15 @@
 # Programação de Funcionalidades
 
 
-|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
-|------|-----------------------------------------|----|
-|RF-001| A aplicação deve permitir que o usuário se cadastre |  | 
-|RF-002| A aplicação deve permitir que o usuário faça login   |  |
-|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   |  |
-|RF-004| A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas   |  |
-|RF-005| A aplicação deve permitir que o usuário altere suas informações cadastrais    |  |
-|RF-006| A aplicação deve fazer o cálculo de lucros e prejuízos do usuário     |  |
-|RF-007| A aplicação deve oferecer segurança e privacidade as informações dos usuários    |  |
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) | Responsável(is) |
+|------|-----------------------------------------|----| ----|
+|RF-001| A aplicação deve permitir que o usuário se cadastre |  |  |
+|RF-002| A aplicação deve permitir que o usuário faça login   |  |  |
+|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   |  |  |
+|RF-004| A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas   |  |   |
+|RF-005| A aplicação deve permitir que o usuário altere suas informações cadastrais    |  |    |
+|RF-006| A aplicação deve fazer o cálculo de lucros e prejuízos do usuário     |  |   |
+|RF-007| A aplicação deve oferecer segurança e privacidade as informações dos usuários    |  |   |
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
