@@ -58,7 +58,7 @@ namespace ManagerMoney.Controllers
 
                 return NotFound();
 
-            return View();  
+            return View(dados);  
         }
 
             [HttpPost]
@@ -66,7 +66,7 @@ namespace ManagerMoney.Controllers
         {
 
                  if (id != cadastroveiculo.Id)
-                return NotFound();
+                     return NotFound();
 
             if (ModelState.IsValid)
 
@@ -92,9 +92,11 @@ namespace ManagerMoney.Controllers
             if (dados == null)
                 return NotFound();
 
-            return View(dados);  
+            return View(dados);
         }
 
+
+
+
     }
-}.  
-    
+} 
