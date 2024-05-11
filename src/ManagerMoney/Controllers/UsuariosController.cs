@@ -7,6 +7,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ManagerMoney.Models;
 using System.Security.Claims;
+using Microsoft.AspNetCore.Http.Connections;
+using Microsoft.AspNetCore.Authentication;
 
 namespace ManagerMoney.Controllers
 {
@@ -31,16 +33,54 @@ namespace ManagerMoney.Controllers
         }
 
         [HttpPost]
-        public async IActionResult Login(Usuario usuario)
+        public async Task<IActionResult> Login(Usuario usuario)
         {
             var dados = await _context.Usuarios.FindAsync(usuario.Id);
 
             if(dados == null)
             {
                 ViewBag.Message = "Usuário e/ou senha inváildos!";
+                return View();
+            }
+
+            bool senhaOk = BCrypt.Net.BCrypt.Verify(usuario.Senha, dados.Senha);
+
+            if (senhaOk)
+            {
+                var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, dados.Nome),
+                    new Claim(ClaimTypes.NameIdentifier, dados.Id.ToString()),
+                    new Claim(ClaimTypes.Role, dados.Email.ToString())
+                };
+
+                var usuarioIdentity = new ClaimsIdentity(claims, "login");
+                ClaimsPrincipal principal = new ClaimsPrincipal(usuarioIdentity);
+
+                var props = new AuthenticationProperties
+                {
+                    AllowRefresh = true,
+                    ExpiresUtc = DateTime.UtcNow.ToLocalTime().AddHours(8),
+                    IsPersistent = true,
+                };
+
+                await HttpContext.SignInAsync(principal, props);
+
+               return Redirect("/");
+            }
+            else
+            {
+                ViewBag.Message = "Usuário e/ou senha inváildos!";
             }
 
             return View();
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await HttpContext.SignOutAsync();
+
+            return RedirectToAction("Login", "Usuarios");
         }
 
         // GET: Usuarios/Details/5
