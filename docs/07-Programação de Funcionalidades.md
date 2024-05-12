@@ -3,8 +3,8 @@
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) | Responsável(is) |
 |------|-----------------------------------------|----| ----|
-|RF-001| A aplicação deve permitir que o usuário se cadastre | x | Guilherme |
-|RF-002| A aplicação deve permitir que o usuário faça login   | x | João V. |
+|RF-001| A aplicação deve permitir que o usuário se cadastre |  | Guilherme |
+|RF-002| A aplicação deve permitir que o usuário faça login   |  | João V. |
 |RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   |  | Fabio |
 |RF-004| A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas   |  |  Caio |
 |RF-005| A aplicação deve permitir que o usuário altere suas informações cadastrais    |  | Felipe |
