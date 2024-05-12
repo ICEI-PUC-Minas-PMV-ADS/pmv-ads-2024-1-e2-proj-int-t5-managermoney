@@ -1,4 +1,5 @@
 ﻿using ManagerMoney.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
@@ -6,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace ManagerMoney.Controllers
 {
-
+    [Authorize]
     public class CadastroVeiculosController : Controller
     {
         private readonly AppDbContext _context;

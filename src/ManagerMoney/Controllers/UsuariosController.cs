@@ -9,9 +9,11 @@ using ManagerMoney.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ManagerMoney.Controllers
 {
+    [Authorize]
     public class UsuariosController : Controller
     {
         private readonly AppDbContext _context;
@@ -27,12 +29,14 @@ namespace ManagerMoney.Controllers
             return View(await _context.Usuarios.ToListAsync());
         }
 
+        [AllowAnonymous]
         public IActionResult Login()
         {
             return View();
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Login(Usuario usuario)
         {
             var dados = await _context.Usuarios.FindAsync(usuario.Id);
