@@ -5,7 +5,7 @@
 |------|-----------------------------------------|----| ----|
 |RF-001| A aplicação deve permitir que o usuário se cadastre | finalizado | Guilherme |
 |RF-002| A aplicação deve permitir que o usuário faça login   |  | João V. |
-|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   |  | Fabio |
+|RF-003| A aplicação deve permitir que o usuário cadastre o seu veículo   | em construção | Fabio |
 |RF-004| A aplicação deve permitir que o usuário adicione os seus registros de receitas e despesas   |  |  Caio |
 |RF-005| A aplicação deve permitir que o usuário altere suas informações cadastrais    |  | Felipe |
 |RF-006| A aplicação deve fazer o cálculo de lucros e prejuízos do usuário     | em construção | Guilherme |
