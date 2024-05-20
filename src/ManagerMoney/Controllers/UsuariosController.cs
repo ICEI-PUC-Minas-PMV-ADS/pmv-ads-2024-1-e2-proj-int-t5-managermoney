@@ -43,7 +43,7 @@ namespace ManagerMoney.Controllers
 
             if(dados == null)
             {
-                ViewBag.Message = "Usuário e/ou senha inváildos!";
+                ViewBag.Message = "Usuário e/ou senha inválidos!";
                 return View();
             }
 
