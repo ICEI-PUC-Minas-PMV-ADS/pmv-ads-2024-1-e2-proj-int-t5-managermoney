@@ -37,7 +37,7 @@ namespace ManagerMoney.Controllers
         {
             var dados = await _context.Usuarios.FindAsync(usuario.Id);
 
-            if(dados == null)
+            if (dados == null)
             {
                 ViewBag.Message = "Usuário e/ou senha inváildos!";
                 return View();
