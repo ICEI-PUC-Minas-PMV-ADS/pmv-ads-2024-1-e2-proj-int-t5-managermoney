@@ -25,9 +25,6 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="create">Cadastrar-se</a>
-                        </li>
                     </ul>
                     <ul>
                         @if (User.Identity.IsAuthenticated)
@@ -39,7 +36,7 @@
                         else
                         {
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-controller="Usuarios" asp-action="Login">Login</a>
+                                <a class="nav-link text-dark" asp-controller="Usuarios" asp-action="Login">Login/Cadastro</a>
                             </li>
                         }
                     </ul>
