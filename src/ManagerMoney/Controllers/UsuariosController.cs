@@ -9,9 +9,11 @@ using ManagerMoney.Models;
 using System.Security.Claims;
 using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ManagerMoney.Controllers
 {
+    [Authorize]
     public class UsuariosController : Controller
     {
         private readonly AppDbContext _context;
@@ -27,12 +29,14 @@ namespace ManagerMoney.Controllers
             return View(await _context.Usuarios.ToListAsync());
         }
 
+        [AllowAnonymous]
         public IActionResult Login()
         {
             return View();
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public async Task<IActionResult> Login(Usuario usuario)
         {
             var dados = await _context.Usuarios.FindAsync(usuario.Id);
@@ -76,11 +80,18 @@ namespace ManagerMoney.Controllers
             return View();
         }
 
+        [AllowAnonymous]
         public async Task<IActionResult> Logout()
         {
             await HttpContext.SignOutAsync();
 
             return RedirectToAction("Login", "Usuarios");
+        }
+
+        [AllowAnonymous]
+        public IActionResult AcessDenied()
+        {
+            return View();
         }
 
         // GET: Usuarios/Details/5
@@ -91,8 +102,14 @@ namespace ManagerMoney.Controllers
                 return NotFound();
             }
 
-            var usuario = await _context.Usuarios
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            if (userId != id)
+            {
+                return AcessDenied();
+            }
+
+            var usuario = await _context.Usuarios.FirstOrDefaultAsync(m => m.Id == id);
             if (usuario == null)
             {
                 return NotFound();
@@ -102,6 +119,7 @@ namespace ManagerMoney.Controllers
         }
 
         // GET: Usuarios/Create
+        [AllowAnonymous]
         public IActionResult Create()
         {
             return View();
@@ -112,6 +130,7 @@ namespace ManagerMoney.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [AllowAnonymous]
         public async Task<IActionResult> Create([Bind("Id,Nome,Email,Senha,Cpf,Rg")] Usuario usuario)
         {
             if (ModelState.IsValid)
@@ -127,6 +146,13 @@ namespace ManagerMoney.Controllers
         // GET: Usuarios/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            if (userId != id)
+            {
+                return AcessDenied();
+            }
+
             if (id == null)
             {
                 return NotFound();
@@ -147,6 +173,13 @@ namespace ManagerMoney.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Nome,Email,Senha,Cpf,Rg")] Usuario usuario)
         {
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            if (userId != id)
+            {
+                return AcessDenied();
+            }
+
             if (id != usuario.Id)
             {
                 return NotFound();
@@ -184,6 +217,13 @@ namespace ManagerMoney.Controllers
                 return NotFound();
             }
 
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            if (userId != id)
+            {
+                return AcessDenied();
+            }
+
             var usuario = await _context.Usuarios
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (usuario == null)
@@ -199,6 +239,13 @@ namespace ManagerMoney.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            if (userId != id)
+            {
+                return AcessDenied();
+            }
+
             var usuario = await _context.Usuarios.FindAsync(id);
             if (usuario != null)
             {
