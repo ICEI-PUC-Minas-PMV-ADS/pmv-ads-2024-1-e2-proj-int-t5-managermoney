@@ -118,6 +118,19 @@ namespace ManagerMoney.Controllers
             return View(usuario);
         }
 
+        public async Task<IActionResult> Profile()
+        {
+            var userId = int.Parse(User.FindFirst(ClaimTypes.NameIdentifier).Value);
+
+            var usuario = await _context.Usuarios.FirstOrDefaultAsync(m => m.Id == userId);
+            if (usuario == null)
+            {
+                return NotFound();
+            }
+
+            return View(usuario);
+        }
+
         // GET: Usuarios/Create
         [AllowAnonymous]
         public IActionResult Create()
