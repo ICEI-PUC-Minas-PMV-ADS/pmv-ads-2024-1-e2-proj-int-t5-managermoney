@@ -9,7 +9,7 @@ namespace ManagerMoney.Models
         public DbSet<Usuario> Usuarios { get; set; }
 
   
-
+        public DbSet<Despesa> Despesas { get; set; }
         public DbSet<Cadastroveiculo> CadastroVeiculos { get; set; }
 
     }

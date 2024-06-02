@@ -33,6 +33,9 @@ namespace ManagerMoney.Models
         [Display(Name = "Ano do Modelo")]
     public int AnoModelo { get; set; }
 
+    public ICollection<Despesa> Despesa { get; set; }
+
+
 
     }
 
