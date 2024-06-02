@@ -1,4 +1,4 @@
-﻿@model ManagerMoney.Models.Cadastroveiculo
+﻿@model ManagerMoney.Models.Despesa
 
 @{
     ViewData["Title"] = "Delete";
@@ -6,46 +6,46 @@
 
 <h1>Apagar</h1>
 
-<h3>Você tem certeza que deseja apagar seu veículo?🚗</h3>
+<h3>Você tem certeza que deseja apagar sua despesa ?</h3>
 <div>
-    <h4></h4>
+   
     <hr />
     <dl class="row">
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Nome)
+            @Html.DisplayNameFor(model => model.Descricao)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Nome)
+            @Html.DisplayFor(model => model.Descricao)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Placa)
+            @Html.DisplayNameFor(model => model.Data)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Placa)
+            @Html.DisplayFor(model => model.Data)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Fabricante)
+            @Html.DisplayNameFor(model => model.Valor)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Fabricante)
+            @Html.DisplayFor(model => model.Valor)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Cor)
+            @Html.DisplayNameFor(model => model.Km)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Cor)
+            @Html.DisplayFor(model => model.Km)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.AnoFabricacao)
+            @Html.DisplayNameFor(model => model.Tipo)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.AnoFabricacao)
+            @Html.DisplayFor(model => model.Tipo)
         </dd>
         <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.AnoModelo)
+            @Html.DisplayNameFor(model => model.Veiculo)
         </dt>
         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.AnoModelo)
+            @Html.DisplayFor(model => model.Veiculo.Cor)
         </dd>
     </dl>
     
