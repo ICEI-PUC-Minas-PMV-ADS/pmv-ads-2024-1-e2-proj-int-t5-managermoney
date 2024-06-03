@@ -3,8 +3,27 @@
 @{
     ViewData["Title"] = "Index";
 }
+<style>
+    .formatacao {
+        color: #C0C0C8;
+        position: relative;
+        background-color: #161629;
+        display: flex;
+        height: 10vh;
+    }
+    .table {
+        color: #C0C0C8;
+        position: relative;
+        display: flex;
+        font-size: 15pt;
+        background-color: #1FBAD6;
+        height: 50vh;
+        justify-content: space-between;
+    }
+</style>
 
-<h1>Cadastrar novo veículo</h1>
+<body class="formatacao">
+<h1 class="formatacao">Cadastrar novo veículo</h1>
 
 <p>
     <a asp-action="Create" class="btn btn-primary"> Criar 🚗 </a>
@@ -63,3 +82,4 @@
 }
     </tbody>
 </table>
+</body>
