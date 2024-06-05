@@ -4,5 +4,12 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
+| **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
+| --- 	| --- 	| --- | ---  | --- | --- | --- |
+| Usuário 1	| CTU1 	| --- | ---  | --- | --- | --- |
+| Usuário 2 | Missão 1	| --- | ---  | --- | --- | --- |
+| Usuário 3	| Missão 1	| --- | ---  | --- | --- | --- |
+| Usuário 4	| Missão 1	| --- | ---  | --- | --- | --- |
+
 > **Links Úteis**:
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
