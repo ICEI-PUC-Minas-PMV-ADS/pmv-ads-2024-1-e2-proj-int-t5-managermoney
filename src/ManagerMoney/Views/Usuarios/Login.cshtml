@@ -26,6 +26,10 @@
                 <input type="submit" value="Logar" class="btn btn-success" /> |
                 <input type="submit" value="Cadastrar-se" onclick="window.location='/Usuarios/create';" class="btn btn-primary" />
             </div>
+            <p class="mb-4 text-sm mx-auto">
+                Esqueceu a sua senha?
+                <a asp-action="RedefinirSenha" asp-controller="Usuarios">Redefinir minha senha</a>
+            </p>
         </form>
         <h3>@ViewBag.Message</h3>
     </div>

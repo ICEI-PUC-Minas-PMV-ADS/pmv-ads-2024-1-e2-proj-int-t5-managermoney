@@ -34,7 +34,7 @@ body {
 }
 
 .header {
-    width: 100vw !important;
+    /*width: 100vw !important propriedade estava estourando o limite da margem;*/ 
     display: flex;
     justify-content: center;
     align-items: center;
