@@ -11,5 +11,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Registro de
 | Usuário 3	| Missão 1	| --- | ---  | --- | --- | --- |
 | Usuário 4	| Missão 1	| --- | ---  | --- | --- | --- |
 
+
+## Relatório de avaliação de Testes de Usabilidade
+
 > **Links Úteis**:
 > - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
