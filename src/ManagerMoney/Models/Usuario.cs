@@ -20,8 +20,9 @@ namespace ManagerMoney.Models
         [Required(ErrorMessage = "Obrigatório informar a senha!")]
         public string Senha { get; set; }
 
+        [RegularExpression(@"[0-9]{11}", ErrorMessage = "CPF inválido. O CPF deve conter 11 caracteres e apenas dígitos")]
         [Required(ErrorMessage = "Obrigatório informar o CPF!")]
-        public int Cpf { get; set; }
+        public string Cpf { get; set; }
 
         [Required(ErrorMessage = "Obrigatório informar o RG!")]
         public int Rg { get; set; }
