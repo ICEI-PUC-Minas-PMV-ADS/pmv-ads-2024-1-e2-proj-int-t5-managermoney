@@ -1,4 +1,5 @@
 ﻿using ManagerMoney.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
@@ -125,6 +126,7 @@ namespace ManagerMoney.Controllers
             return RedirectToAction("Index");
 
         }
+       
     }
 
 }

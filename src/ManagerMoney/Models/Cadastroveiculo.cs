@@ -34,8 +34,11 @@ namespace ManagerMoney.Models
     public int AnoModelo { get; set; }
 
     public ICollection<Despesa> Despesa { get; set; }
+        public int UsuarioId { get; set; }
 
+        [ForeignKey("UsuarioId")]
 
+        public Usuario Usuario { get; set; }
 
     }
 

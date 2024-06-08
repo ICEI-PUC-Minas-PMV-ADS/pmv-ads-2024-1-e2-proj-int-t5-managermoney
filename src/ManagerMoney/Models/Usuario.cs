@@ -26,5 +26,7 @@ namespace ManagerMoney.Models
 
         [Required(ErrorMessage = "Obrigatório informar o RG!")]
         public int Rg { get; set; }
+
+        public ICollection<Cadastroveiculo> Veiculo { get; set; }
     }
 }
