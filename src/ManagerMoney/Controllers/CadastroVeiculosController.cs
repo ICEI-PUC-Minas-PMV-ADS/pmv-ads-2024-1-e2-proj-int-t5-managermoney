@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.AspNetCore.Identity;
+using System.Security.Principal;
+
 
 namespace ManagerMoney.Controllers
 {
@@ -126,7 +129,8 @@ namespace ManagerMoney.Controllers
             return RedirectToAction("Index");
 
         }
-       
+
+     
     }
 
 }
