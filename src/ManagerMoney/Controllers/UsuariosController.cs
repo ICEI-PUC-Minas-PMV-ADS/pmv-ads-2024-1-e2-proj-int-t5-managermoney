@@ -39,7 +39,7 @@ namespace ManagerMoney.Controllers
         [AllowAnonymous]
         public async Task<IActionResult> Login(Usuario usuario)
         {
-            var dados = await _context.Usuarios.FindAsync(usuario.Id);
+            var dados = await _context.Usuarios.SingleOrDefaultAsync(d => d.Email == usuario.Email);
 
             if (dados == null)
             {
