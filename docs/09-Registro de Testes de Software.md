@@ -11,13 +11,13 @@
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - A aplicação deve permitir que o usuário faça login. |
 |	Plano de teste Associado 	| CT-02 – Efetuar login |
-|Registro de evidência |  |
+|Registro de evidência | https://drive.google.com/file/d/1U5PWLuCgoB9SgT78Ej-dAVdV7fzdI4gX/view?usp=sharing |
 
 | **Caso de Teste** 	| **CT-03 – Cadastrar veículo** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-003 - A aplicação deve permitir que o usuário cadastre o seu veículo. |
 |	Plano de teste Associado 	| CT-03 – Cadastrar veículo |
-|Registro de evidência |  |
+|Registro de evidência | https://drive.google.com/file/d/1w0V6x100BphaXtI9iqhzZC48GCDqtCZa/view?usp=sharing |
 
 
 | **Caso de Teste** 	| **CT-04 – Registro de receitas e despesas** 	|
@@ -30,6 +30,6 @@
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-005 - A aplicação deve permitir que o usuário altere suas informações cadastrais. |
 |	Plano de teste Associado 	| CT-05 – Alterar informações cadastrais |
-|Registro de evidência |  |
+|Registro de evidência | https://drive.google.com/file/d/1rcEIMPI-XgfzN_coWaL4i8AurTVo6vPc/view?usp=sharing |
 
 ## Relatório de avaliação dos Testes de Software
